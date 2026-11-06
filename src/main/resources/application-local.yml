@@ -1,0 +1,7 @@
+server:
+  port: 8090
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/school_management
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD}
