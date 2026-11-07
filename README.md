@@ -103,3 +103,9 @@ Use the `azure` profile to connect to Azure Database for PostgreSQL Flexible Ser
 ## OpenAPI and monitoring
 
 Swagger UI is served at `/swagger-ui.html`; JSON at `/v3/api-docs`. Application Insights captures SLF4J/Logback logs when its Java agent is enabled. See [OBSERVABILITY.md](OBSERVABILITY.md) for App Service and local startup instructions, environment settings and KQL queries.
+
+## Laboratorio I de Azure Key Vault
+
+Entrega de Felipe de Jesús Serrano Hurtado, Universidad Tecnológica del Valle de Toluca.
+
+La API de este repositorio parte del código de Jorge Almeida Montiel usado en el laboratorio. Consulta [el despliegue, las variables y las pruebas](LABORATORIO.md).
